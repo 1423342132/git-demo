@@ -9,4 +9,4 @@ hello MASTER!hello world!
 hello MASTER!hello world!
 hello MASTER!hello world!
 hello MASTER!hello world!
-hello MASTER!hello world!
+hello MASTER!hello world! hot-fix test
