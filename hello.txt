@@ -8,5 +8,6 @@ hello MASTER!hello world!
 hello MASTER!hello world!
 hello MASTER!hello world!
 hello MASTER!hello world!
+<<<<<<< HEAD
 hello MASTER!hello world! master test...
-hello MASTER!hello world!
+hello MASTER!hello world! hot-fix test
